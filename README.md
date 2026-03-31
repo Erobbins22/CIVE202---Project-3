@@ -7,9 +7,10 @@ Understanding traffic behavior and travel patterns is essential for improving tr
 ---
 ## Repository Structure
 
-- [Project 3 Code](CIVE202_Spring2026_Group7_Project3_Code.ipynb)
-- [NHTS Data](NHTS.csv)
-- [NGSIM Data](NGSIM.csv)
+- [Project 3 Code](CIVE202_Spring2026_Group7_Project3_Code.ipynb): This is the code that contains all the data analysis, visualization code, and IDM simulation. 
+- [NHTS Data](NHTS.csv):Dataset containing United States transportation usage characteristics. 
+- [NGSIM Data](NGSIM.csv):Dataset containing high-resolution vehicle trajectory and driving behavior data.
+- All the data below is the exported plots:
 - [Boxplot](boxplot.png)
 - [Histogram](histo.png)
 - [Position-time](positiontime.png)

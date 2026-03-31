@@ -7,9 +7,9 @@ Understanding traffic behavior and travel patterns is essential for improving tr
 ---
 ## Repository Structure
 
-- (CIVE202_Spring2026_Group7_Project3_Code.ipynb)
-- NHTS.csv
-- NGSIM.csv
+- [Project 3 Code](CIVE202_Spring2026_Group7_Project3_Code.ipynb)
+- [NHTS Data](NHTS.csv)
+- [NGSIM Data](NGSIM.csv)
 
 ---
 ## User Guide

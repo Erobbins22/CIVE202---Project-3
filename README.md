@@ -41,7 +41,7 @@ This system automates the generation of five specific transportation-related vis
 ## Project Goals
 This project aims to simulate and analyze a transportation system utilizing data from the Federal Highway Administration using tools in Python. Data will be organized and interpreted to produce results that highlight aspects of transportation, like driver behavior. Along with the graphical analysis, a simulation will be conducted using an Intelligent Driver Model (IDM) to simulate vehicle behavior. All analysis will be done within a Jupyter Notebook, an annotated code document, a GitHub repository, an engineering timesheet, and a detailed technical report. Our progress is documented in the following charts: 
 
--[Individual Gantt Chart](CIVE202_Spring2026_Group7_Project3_IndividualGanttChart.xlsx):Log of hours spent by each engineer
+-[Individual Gantt Chart](CIVE202_Spring2026_Group7_Project3_IndividualGanttChart.xlsx):Log of hours spent by each engineering intern
 
 -[Engineering Timesheet](CIVE202_Spring2026_Group7_Project3_Engineering_Timesheet.xlsx):Timeline of project activities
 
